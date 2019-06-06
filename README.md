@@ -1,2 +1,2 @@
-# MSFLDnet
-Implementation code for MSFLDnet.
+# RFD-Net
+Implementation code for RFD-Net.
